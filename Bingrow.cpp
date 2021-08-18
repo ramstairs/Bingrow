@@ -278,7 +278,7 @@ Symbol BingrowBoard::GenerateSymbol(int col) // n is the current size of the boa
 }
 
 
-// int main() { // For testing of implementations 
+// int main() { // For testing of implementation
 //    BingrowBoard test(5);
  
 //    BingrowSquare testsquare;
